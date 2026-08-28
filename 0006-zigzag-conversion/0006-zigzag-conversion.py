@@ -1,18 +1,24 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
+        
+        # If only one row, zigzag is not possible
         if numRows == 1 or numRows >= len(s):
             return s
-
+        
         rows = [""] * numRows
-        curr_row = 0
-        going_down = False
-
+        current_row = 0
+        direction = 1   # 1 = down, -1 = up
+        
         for char in s:
-            rows[curr_row] += char
-
-            if curr_row == 0 or curr_row == numRows - 1:
-                going_down = not going_down
-
-            curr_row += 1 if going_down else -1
-
-        return "".join(rows)    
+            rows[current_row] += char
+            
+            # Change direction at top and bottom
+            if current_row == 0:
+                direction = 1
+            elif current_row == numRows - 1:
+                direction = -1
+            
+            current_row += direction
+        
+        # Combine all rows
+        return "".join(rows)
