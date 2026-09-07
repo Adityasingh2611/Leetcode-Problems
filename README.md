@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adityasingh2611/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Adityasingh2611/Leetcode-Problems/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Adityasingh2611/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Adityasingh2611/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Adityasingh2611/Leetcode-Problems/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -19,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Adityasingh2611/Leetcode-Problems/tree/master/0175-combine-two-tables) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Adityasingh2611/Leetcode-Problems/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Adityasingh2611/Leetcode-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
