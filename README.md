@@ -25,8 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Adityasingh2611/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Adityasingh2611/Leetcode-Problems/tree/master/0283-move-zeroes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Adityasingh2611/Leetcode-Problems/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Adityasingh2611/Leetcode-Problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
